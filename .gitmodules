@@ -1,0 +1,4 @@
+[submodule "plugins/xiuxian_nonebot_wrds"]
+	path = plugins/xiuxian_nonebot_wrds
+	url = https://github.com/2598142880/nonebot_plugin_xiuxian_2
+	branch = master
