@@ -154,4 +154,5 @@ cython_debug/
 
 # Custom
 .idea/
+data/
 configs/current_config
